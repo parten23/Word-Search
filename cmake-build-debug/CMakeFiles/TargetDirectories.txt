@@ -1,0 +1,3 @@
+C:/WinX/Scholar/3/Disributed & Parallel Computing/Work/Pardington Tenga R204717Y HSE311 Mini Project/cmake-build-debug/CMakeFiles/Project.dir
+C:/WinX/Scholar/3/Disributed & Parallel Computing/Work/Pardington Tenga R204717Y HSE311 Mini Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/WinX/Scholar/3/Disributed & Parallel Computing/Work/Pardington Tenga R204717Y HSE311 Mini Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
